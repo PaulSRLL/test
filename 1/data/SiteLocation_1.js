@@ -1,0 +1,1 @@
+var json_SiteLocation_1 = {"type":"FeatureCollection","name":"SiteLocation_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[-1.638287752059603,52.779575076214954]}}]}
