@@ -1,1 +1,0 @@
-var json_BurtonStation_0 = {"type":"FeatureCollection","name":"BurtonStation_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[-1.642451743168857,52.805922524442515]}}]}
